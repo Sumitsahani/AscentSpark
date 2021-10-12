@@ -1,0 +1,47 @@
+
+.title{
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
+
+.updateForm{
+    height: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    min-height: 10vh;
+    color:white;
+    background: black;
+}
+
+.nav_link{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items:flex-end;
+    list-style: none;
+}
+
+.links{
+    color: white;
+    text-decoration: none;
+}
+
+
+.Modal{
+    height: 200px;
+    top: 0;
+    position: fixed;
+
+}
+
